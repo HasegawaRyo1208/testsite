@@ -1,0 +1,6 @@
+baseURL = "https://HasegawaRyo1208.github.io/ekk/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "phugo"
+publishDir = "docs"
+canonifyurls = true
