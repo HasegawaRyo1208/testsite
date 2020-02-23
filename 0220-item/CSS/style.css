@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body {
+  padding-top: 90px;
+  /*スマホは消す*/
+}
+
+nav .fa-at {
+  color: #008489;
+}
+
+nav ul .nav-color {
+  color: #008489;
+  border-bottom: 2px solid #008489;
+  font-size: 15px;
+  line-height: 70px;
+}
+
+nav ul .nav-text {
+  color: #828282;
+  font-size: 15px;
+  line-height: 70px;
+}
+
+nav .month {
+  font-size: 15px;
+}
+
+nav .money {
+  font-size: 22px;
+}
+
+nav .btn-danger span {
+  font-size: 15px;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,46 @@
+$main-color:#008489;
+$text-color:#828282;
+$nav-textsize:15px;
+body{ 
+    padding-top: 90px; /*スマホは消す*/
+}
+
+nav{
+    .fa-at{
+        color: $main-color;
+    }
+    
+    ul{
+        
+        .nav-color{
+            color: $main-color;
+            border-bottom:2px solid $main-color;
+            font-size: $nav-textsize;
+            line-height: 70px;
+        }
+        .nav-text{
+            color: $text-color;
+            font-size: $nav-textsize;
+            line-height: 70px;
+        }
+    }
+   
+    .month{
+        font-size: 15px;
+    }
+    .money{
+        font-size: 22px;
+    }
+
+    .btn-danger{
+        span{
+            font-size: 15px;
+        }
+    }
+}
+
+
+
+
+
+

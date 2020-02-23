@@ -1,6 +1,0 @@
-baseURL = "https://hasegawaryo1208.github.io/testsite/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "phugo"
-publishDir = "docs"
-canonifyurls = true
